@@ -1,7 +1,7 @@
 ---
 title: "Jarred Ezra Randall"
 subtitle: "Master's of Urban Spatial Analytics | Bachelor's in Landscape Architecture | Landscape Designer II"
-image: Portfolio/Portfolio/assets/profile.jpeg
+image: assets/profile.jpeg
 about:
   template: jolla
   image-width: 20em
