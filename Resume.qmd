@@ -1,11 +1,11 @@
----
+ts---
 title: "Resume" 
 date: 2024-05-26
 published-title: Last Updated
 engine: knitr
 freeze: false
 cv:
-  pdf: "~/GitHub/Portfolio/JarredRandall_Resume.pdf"
+  pdf: "assets/JarredRandall_Resume.pdf"
 ---
 
 ```{css echo=FALSE}
