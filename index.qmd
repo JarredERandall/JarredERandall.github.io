@@ -9,16 +9,13 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/https://www.linkedin.com/in/jarredrandall
+      href: https://www.linkedin.com/in/jarredrandall/
     - icon: github
       text: Github
-      href: https://github.com/JarredERandall
+      href: https://github.com/JarredERandall/
     - icon: envelope
       text: Contact me
       href: mailto:jarrederandall@gmail.com
-editor: 
-  markdown: 
-    wrap: sentence
 ---
 
 # About Me
