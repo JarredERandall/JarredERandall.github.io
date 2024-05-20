@@ -1,0 +1,29 @@
+---
+title: "Music"
+---
+
+# Music Projects
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://kvetchgnv.bandcamp.com/album/songs-to-complain-about" target="_blank">
+      <img src="assets/kvetch.jpg" alt="Kvetch" style="width: 300px; height: auto; border-radius: 8px;">
+    </a>
+    <h3>Kvetch</h3>
+    <p>A musical project based in Gainesville, FL with Zach Randall and Dave LeBleu.</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://tinyfarm.bandcamp.com/album/tiny-demo" target="_blank">
+      <img src="assets/tinyfarm.jpg" alt="Tiny Farm" style="width: 300px; height: auto; border-radius: 8px;">
+    </a>
+    <h3>Tiny Farm</h3>
+    <p>A musical project based in Gainesville, FL with Zach Randall.</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://camphope.bandcamp.com/album/camp-hope-demo" target="_blank">
+      <img src="assets/camphope.jpg" alt="Camp Hope" style="width: 300px; height: auto; border-radius: 8px;">
+    </a>
+    <h3>Camp Hope</h3>
+    <p>A musical project based in Jamaica Plain, MA with Jesus Vio, Phillip Agres, and Zack Lanoue.</p>
+  </div>
+</div>
