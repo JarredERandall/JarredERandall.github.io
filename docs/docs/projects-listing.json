@@ -1,4 +1,6 @@
 {
-  "listing": "/docs/projects.html",
-  "items": []
+  "listing": "/Projects.html",
+  "items": [
+    "/Projects/Practicum/index.html"
+  ]
 }
