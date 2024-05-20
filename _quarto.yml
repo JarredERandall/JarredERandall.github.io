@@ -1,20 +1,17 @@
 project:
   type: website
-  output-dir: /docs
+  output-dir: docs
 
 website:
   title: "Jarred Ezra Randall"
   favicon: "assets/profile.png"
   navbar:
     left:
-      - text: Home
-        href: index.qmd
-      - text: Projects
-        href: Projects.qmd
-      - text: Resume
-        href: Resume.qmd
-      - text: Music
-        href: Music.qmd
+      - href: index.qmd
+        text: Home
+      - Projects.qmd 
+      - Resume.qmd
+      - Music.qmd
     right:
       - icon: linkedin
         href: "https://www.linkedin.com/in/jarredrandall/"
@@ -24,6 +21,7 @@ website:
     location: navbar
     type: overlay
   page-navigation: true
+      
   page-footer:
     center: |
       [Contact Me](mailto:JarredERandall@gmail.com)
@@ -39,7 +37,7 @@ format:
       light: cosmo
     css: styles.css
     toc: true
-    pagetitle: "{{< meta title >}} | Jarred Randall"
+    pagetitle: "{{< meta title >}} | Jarred Ezra Randall"
     smooth-scroll: true
 
 editor: source
