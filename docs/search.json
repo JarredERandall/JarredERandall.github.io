@@ -32,21 +32,21 @@
     "href": "Music.html",
     "title": "Music",
     "section": "",
-    "text": "Music Projects\n\n\n&lt;a href=\"https://kvetchgnv.bandcamp.com/album/songs-to-complain-about\" target=\"_blank\"&gt;\n  &lt;img src=\"assets/kvetch.jpg\" alt=\"Kvetch\" style=\"width: 300px; height: auto; border-radius: 8px;\"&gt;\n&lt;/a&gt;\n&lt;h3&gt;Kvetch&lt;/h3&gt;\n&lt;p&gt;A musical project based in Gainesville, FL with Zach Randall and Dave LeBleu.&lt;/p&gt;\n\n\n&lt;a href=\"https://tinyfarm.bandcamp.com/album/tiny-demo\" target=\"_blank\"&gt;\n  &lt;img src=\"assets/tinyfarm.jpg\" alt=\"Tiny Farm\" style=\"width: 300px; height: auto; border-radius: 8px;\"&gt;\n&lt;/a&gt;\n&lt;h3&gt;Tiny Farm&lt;/h3&gt;\n&lt;p&gt;A musical project based in Gainesville, FL with Zach Randall.&lt;/p&gt;\n\n\n&lt;a href=\"https://camphope.bandcamp.com/album/camp-hope-demo\" target=\"_blank\"&gt;\n  &lt;img src=\"assets/camphope.jpg\" alt=\"Camp Hope\" style=\"width: 300px; height: auto; border-radius: 8px;\"&gt;\n&lt;/a&gt;\n&lt;h3&gt;Camp Hope&lt;/h3&gt;\n&lt;p&gt;A musical project based in Jamaica Plain, MA with Jesus Vio, Phillip Agres, and Zack Lanoue.&lt;/p&gt;"
+    "text": "Kvetch\n    A musical project based in Gainesville, FL with Zach Randall and Dave LeBleu.\n  \n  \n    \n      \n    \n    Tiny Farm\n    A musical project based in Gainesville, FL with Zach Randall.\n  \n  \n    \n      \n    \n    Camp Hope\n    A musical project based in Jamaica Plain, MA with Jesus Vio, Phillip Agres, and Zack Lanoue."
   },
   {
     "objectID": "docs/Music.html",
     "href": "docs/Music.html",
     "title": "Music",
     "section": "",
-    "text": "Music Projects\n\n\n&lt;a href=\"https://kvetchgnv.bandcamp.com/album/songs-to-complain-about\" target=\"_blank\"&gt;\n  &lt;img src=\"assets/kvetch.jpg\" alt=\"Kvetch\" style=\"width: 300px; height: auto; border-radius: 8px;\"&gt;\n&lt;/a&gt;\n&lt;h3&gt;Kvetch&lt;/h3&gt;\n&lt;p&gt;A musical project based in Gainesville, FL with Zach Randall and Dave LeBleu.&lt;/p&gt;\n\n\n&lt;a href=\"https://tinyfarm.bandcamp.com/album/tiny-demo\" target=\"_blank\"&gt;\n  &lt;img src=\"assets/tinyfarm.jpg\" alt=\"Tiny Farm\" style=\"width: 300px; height: auto; border-radius: 8px;\"&gt;\n&lt;/a&gt;\n&lt;h3&gt;Tiny Farm&lt;/h3&gt;\n&lt;p&gt;A musical project based in Gainesville, FL with Zach Randall.&lt;/p&gt;\n\n\n&lt;a href=\"https://camphope.bandcamp.com/album/camp-hope-demo\" target=\"_blank\"&gt;\n  &lt;img src=\"assets/camphope.jpg\" alt=\"Camp Hope\" style=\"width: 300px; height: auto; border-radius: 8px;\"&gt;\n&lt;/a&gt;\n&lt;h3&gt;Camp Hope&lt;/h3&gt;\n&lt;p&gt;A musical project based in Jamaica Plain, MA with Jesus Vio, Phillip Agres, and Zack Lanoue.&lt;/p&gt;"
+    "text": "Kvetch\n    Based in Gainesville, FL with Zach Randall and Dave LeBleu.\n  \n  \n    \n      \n    \n    Tiny Farm\n    Based in Gainesville, FL with Zach Randall.\n  \n  \n    \n      \n    \n    Camp Hope\n    Based in Jamaica Plain, MA with Jesus Vio, Phillip Agres, and Zack Lanoue."
   },
   {
     "objectID": "docs/Resume.html",
     "href": "docs/Resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Last Updated 2024-05-20"
+    "text": "Resume"
   },
   {
     "objectID": "Projects.html",
@@ -60,6 +60,6 @@
     "href": "Resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Last Updated 2024-05-20"
+    "text": "Resume"
   }
 ]

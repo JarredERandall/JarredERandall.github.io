@@ -91,9 +91,9 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../Projects.html" rel="" target="">
  <span class="menu-text">My Work</span></a>
   </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="../Resume.qmd" rel="" target="">
- <span class="menu-text"></span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../Resume.html" rel="" target="">
+ <span class="menu-text">Resume</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../Music.html" rel="" target="">
@@ -123,13 +123,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#music-projects" id="toc-music-projects" class="nav-link active" data-scroll-target="#music-projects">Music Projects</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -151,34 +145,66 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="music-projects" class="level1">
-<h1>Music Projects</h1>
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-<div style="margin: 10px; text-align: center;">
-<pre><code>&lt;a href="https://kvetchgnv.bandcamp.com/album/songs-to-complain-about" target="_blank"&gt;
-  &lt;img src="assets/kvetch.jpg" alt="Kvetch" style="width: 300px; height: auto; border-radius: 8px;"&gt;
-&lt;/a&gt;
-&lt;h3&gt;Kvetch&lt;/h3&gt;
-&lt;p&gt;A musical project based in Gainesville, FL with Zach Randall and Dave LeBleu.&lt;/p&gt;</code></pre>
-</div>
-<div style="margin: 10px; text-align: center;">
-<pre><code>&lt;a href="https://tinyfarm.bandcamp.com/album/tiny-demo" target="_blank"&gt;
-  &lt;img src="assets/tinyfarm.jpg" alt="Tiny Farm" style="width: 300px; height: auto; border-radius: 8px;"&gt;
-&lt;/a&gt;
-&lt;h3&gt;Tiny Farm&lt;/h3&gt;
-&lt;p&gt;A musical project based in Gainesville, FL with Zach Randall.&lt;/p&gt;</code></pre>
-</div>
-<div style="margin: 10px; text-align: center;">
-<pre><code>&lt;a href="https://camphope.bandcamp.com/album/camp-hope-demo" target="_blank"&gt;
-  &lt;img src="assets/camphope.jpg" alt="Camp Hope" style="width: 300px; height: auto; border-radius: 8px;"&gt;
-&lt;/a&gt;
-&lt;h3&gt;Camp Hope&lt;/h3&gt;
-&lt;p&gt;A musical project based in Jamaica Plain, MA with Jesus Vio, Phillip Agres, and Zack Lanoue.&lt;/p&gt;</code></pre>
-</div>
+<style>
+/* Hide the title in the document body */
+h1.title {
+    display: none;
+}
+
+
+/* Center the flex container and ensure uniform spacing */
+.container {
+    display: flex;
+    justify-content: center; /* Center the entire container */
+    align-items: center; /* Center items vertically */
+    gap: 100px; /* Increase gap to add more space between items */
+    width: 100%;
+    margin: 0 auto;
+    padding: 40px 0; /* Add padding to center content vertically */
+    position: relative;
+    z-index: 1; /* Ensure content is above the overlay */
+}
+
+/* Center each item inside the container */
+.container > div {
+    text-align: center;
+}
+
+/* Ensure all images are the same size */
+.container img {
+    width: 350px; /* Set a fixed width for uniformity */
+    height: 350px; /* Set a fixed height for uniformity */
+    object-fit: cover; /* Ensure images are properly cropped */
+    border-radius: 8px;
+    display: block; /* Ensure images are block-level for alignment */
+    margin: 0 auto; /* Center images horizontally within their div */
+}
+</style>
+<div class="container">
+  <div>
+    <a href="https://kvetchgnv.bandcamp.com/album/songs-to-complain-about" target="_blank">
+      <img src="assets/kvetch.jpg" alt="Kvetch">
+    </a>
+    <h3 class="anchored">Kvetch</h3>
+    <p>Based in Gainesville, FL with Zach Randall and Dave LeBleu.</p>
+  </div>
+  <div>
+    <a href="https://tinyfarm.bandcamp.com/album/tiny-demo" target="_blank">
+      <img src="assets/tinyfarm.jpg" alt="Tiny Farm">
+    </a>
+    <h3 class="anchored">Tiny Farm</h3>
+    <p>Based in Gainesville, FL with Zach Randall.</p>
+  </div>
+  <div>
+    <a href="https://camphope.bandcamp.com/album/camp-hope-demo" target="_blank">
+      <img src="assets/camphope.jpg" alt="Camp Hope">
+    </a>
+    <h3 class="anchored">Camp Hope</h3>
+    <p>Based in Jamaica Plain, MA with Jesus Vio, Phillip Agres, and Zack Lanoue.</p>
+  </div>
 </div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

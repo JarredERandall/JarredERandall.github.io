@@ -1,16 +1,20 @@
 ---
 title: "Resume"
-date: 2024-05-26
-published-title: Last Updated
-engine: knitr
-freeze: false
+output: 
+  html: 
+    embed-resources: true
 ---
 
 <style>
-/* Hide the title and date */
-h1, .quarto-date {
-    display: none;
+/* Hide the title and date in the document body */
+h1, .quarto-date, .date, .header-date, .published-date, .last-updated {
+    display: none !important;
+}
+
+/* Ensure the title in the navbar remains unchanged */
+.navbar-brand {
+    display: inline-block !important;
 }
 </style>
 
-![Last Updated 2024-05-20](assets/JarredRandall_Resume.png)
+![Last Updated 05/20/2024](assets/JarredRandall_Resume.png)
