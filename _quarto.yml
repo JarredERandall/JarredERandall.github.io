@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Jarred Ezra Randall"
-  favicon: "assets/profile.jpeg"
+  favicon: "assets/profile.png"
   navbar:
     left:
       - text: Home
