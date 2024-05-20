@@ -1,7 +1,7 @@
 ---
 title: "Jarred Ezra Randall"
 subtitle: "Master's of Urban Spatial Analytics | Bachelor's in Landscape Architecture | Landscape Designer II"
-image: assets/profile.jpg
+image: assets/profile.jpeg
 about:
   template: jolla
   image-width: 20em
@@ -32,31 +32,31 @@ Throughout my career, I have demonstrated the ability to manage projects effecti
 
 ## Professional Work
 
-**Lead various landscape design projects**: Demonstrated strong project management skills, ensuring timely and successful project completion.
+-   **Lead various landscape design projects**: Demonstrated strong project management skills, ensuring timely and successful project completion.
 
-**Conducted in-depth proposal research**: Resulted in a higher project win rate by providing detailed and compelling project proposals.
+-   **Conducted in-depth proposal research**: Resulted in a higher project win rate by providing detailed and compelling project proposals.
 
-**Created innovative conceptual designs**: Met client specifications and exceeded expectations through creativity and attention to detail.
+-   **Created innovative conceptual designs**: Met client specifications and exceeded expectations through creativity and attention to detail.
 
-**Developed comprehensive hardscape and planting construction documents and details**: Ensured accurate and detailed plans for implementation.
+-   **Developed comprehensive hardscape and planting construction documents and details**: Ensured accurate and detailed plans for implementation.
 
-**Coordinated with regulatory agencies**: Ensured project compliance and smooth approval processes by liaising effectively with relevant authorities.
+-   **Coordinated with regulatory agencies**: Ensured project compliance and smooth approval processes by liaising effectively with relevant authorities.
 
-**Produced high-quality graphic exhibits and renderings**: Communicated design concepts effectively to clients and stakeholders.
+-   **Produced high-quality graphic exhibits and renderings**: Communicated design concepts effectively to clients and stakeholders.
 
-**Conducted survey fieldwork**: Gathered essential data for project planning, contributing to informed and accurate design decisions.
+-   **Conducted survey fieldwork**: Gathered essential data for project planning, contributing to informed and accurate design decisions.
 
 ## Skills
 
-**Project Management**: Effective in leading projects from conception to completion.
+-   **Project Management**: Effective in leading projects from conception to completion.
 
-**Design**: Skilled in creating innovative and functional landscape designs.
+-   **Design**: Skilled in creating innovative and functional landscape designs.
 
-**Research**: Proficient in conducting thorough proposal research and analysis.
+-   **Research**: Proficient in conducting thorough proposal research and analysis.
 
-**Data-Driven Design**: Expertise in spatial analysis and data visualization using GIS, R, and Python.
+-   **Data-Driven Design**: Expertise in spatial analysis and data visualization using GIS, R, and Python.
 
-**Collaboration**: Thrive in collaborative work environments, working effectively with teams and stakeholders.
+-   **Collaboration**: Thrive in collaborative work environments, working effectively with teams and stakeholders.
 
 ## Personal Interests
 
