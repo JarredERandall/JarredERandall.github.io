@@ -22,5 +22,17 @@
   },
   "docs/resume.qmd": {
     "resume.html": "3f351367"
+  },
+  "docs/music.qmd": {
+    "music.html": "b0dac5ca"
+  },
+  "music.qmd": {
+    "music.html": "2ba3bb89"
+  },
+  "projects.qmd": {
+    "projects.html": "3e7872ef"
+  },
+  "resume.qmd": {
+    "resume.html": "52e89038"
   }
 }

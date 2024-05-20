@@ -9,9 +9,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Projects.qmd 
-      - Resume.qmd
-      - Music.qmd
+      - projects.qmd 
+      - resume.qmd
+      - music.qmd
     right:
       - icon: linkedin
         href: "https://www.linkedin.com/in/jarredrandall/"
@@ -29,7 +29,6 @@ website:
       Powered by [Quarto](https://quarto.org)
     right: |
       &#169; 2024 Jarred Ezra Randall
-    background: "#f8f9fa"
 
 format:
   html:

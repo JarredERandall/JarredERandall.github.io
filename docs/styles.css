@@ -1,22 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@300&family=Montserrat:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 
 :root {
   --primary-color: #f3e6d3;
   --link-color: #451d3c; /* Dark purple for hyperlinks */
-  --text-color: black; /* Main text color */
+  --text-color: #000000; /* Set text color to black */
 }
 
 body {
-    font-family: 'Josefin Slab', serif; /* Correctly updated to Josefin Slab for body text */
-    font-weight: 300; /* Light weight for body text */
+    font-family: 'Poppins', sans-serif; /* Use Poppins for all text */
+    font-weight: 400; /* Regular weight for body text */
     color: var(--text-color); /* Set the text color */
-    font-size: 20px; /* Increased font size */
+    font-size: 16px; /* Increased font size */
+    text-align: left; /* Left-align body text */
+    background-color: #ffffff; /* Set background to white */
 }
 
-/* Keep medium weight and Montserrat for headers */
+/* Use Poppins for headers */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', sans-serif; /* Ensure headers use Montserrat */
-    font-weight: 500; /* Medium weight for headers */
+    font-family: 'Poppins', sans-serif; /* Ensure headers use Poppins */
+    font-weight: 700; /* Bold weight for headers */
+    text-align: center; /* Center-align headers */
+    color: var(--text-color); /* Set the text color to black */
 }
 
 /* Customize hyperlink colors */
@@ -34,14 +38,33 @@ a:hover {
     display: block;
 }
 
-/* New styles for header and footer text and icons */
-header, .navbar, footer, .page-footer {
-    color: var(--text-color); /* Apply the main text color to header and footer */
-    font-family: 'Montserrat', sans-serif; /* Ensure headers/footer text uses Montserrat */
+/* New styles for top navigation bar */
+.navbar {
+    background-color: #000000; /* Set navbar background to black */
+    color: #ffffff; /* Apply white text color to navbar */
+    font-family: 'Poppins', sans-serif; /* Ensure navbar uses Poppins */
+    font-weight: 700; /* Bold weight for navbar */
 }
 
-.navbar a, .page-footer a, .page-footer .icon, header a, header .icon {
-    color: var(--text-color); /* Ensure links and icons in header/footer use the text color */
+.navbar a, .navbar .icon {
+    color: #ffffff !important; /* Ensure links and icons in navbar use bright white text color */
+    font-weight: 700; /* Ensure text in navbar is bold */
+}
+
+/* Remove background color from title and subtitle */
+header .title, header .subtitle {
+    background-color: transparent; /* Remove background color */
+    color: var(--text-color); /* Set text color to black */
+}
+
+/* Styles for header and footer text and icons */
+header, footer, .page-footer {
+    color: var(--text-color); /* Apply the main text color to header and footer */
+    font-family: 'Poppins', sans-serif; /* Ensure headers/footer text uses Poppins */
+}
+
+.page-footer a, .page-footer .icon, header a, header .icon {
+    color: var(--text-color); /* Ensure links and icons in header/footer use the main text color */
 }
 
 /* Assuming .project-header is your header's class and .project-description for the body */
@@ -55,4 +78,27 @@ header, .navbar, footer, .page-footer {
     -webkit-box-orient: vertical;
     overflow: hidden;
     padding-top: 1em; /* Adds padding between the header and this text, adjust if needed */
+}
+
+/* Ensure the list container is left-aligned */
+ul {
+    display: block;
+    text-align: left; /* Left-align text within the list */
+    padding-left: 16px; /* Add some padding for better readability */
+}
+
+li {
+    text-align: left; /* Ensure the text of the bullet points is left-aligned */
+}
+
+/* Ensure bold text renders correctly */
+strong, b {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700; /* Ensure bold text is rendered using a bold weight */
+    color: var(--text-color); /* Ensure the color matches the main text color */
+}
+
+/* Left-align paragraphs */
+p {
+    text-align: left; /* Left-align paragraphs */
 }

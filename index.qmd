@@ -26,34 +26,34 @@ I have a strong interest in design as a means for social justice, equitable urba
 
 ## Professional Work
 
--   **Lead various landscape design projects**: Demonstrated strong project management skills, ensuring timely and successful project completion.
+- **Lead various landscape design projects**: Demonstrated strong project management skills, ensuring timely and successful project completion.
 
--   **Conducted in-depth proposal research**: Resulted in a higher project win rate by providing detailed and compelling project proposals.
+- **Conducted in-depth proposal research**: Resulted in a higher project win rate by providing detailed and compelling project proposals.
 
--   **Created innovative conceptual designs**: Met client specifications and exceeded expectations through creativity and attention to detail.
+- **Created innovative conceptual designs**: Met client specifications and exceeded expectations through creativity and attention to detail.
 
--   **Developed comprehensive hardscape and planting construction documents and details**: Ensured accurate and detailed plans for implementation.
+- **Developed comprehensive hardscape and planting construction documents and details**: Ensured accurate and detailed plans for implementation.
 
--   **Coordinated with regulatory agencies**: Ensured project compliance and smooth approval processes by liaising effectively with relevant authorities.
+- **Coordinated with regulatory agencies**: Ensured project compliance and smooth approval processes by liaising effectively with relevant authorities.
 
--   **Produced high-quality graphic exhibits and renderings**: Communicated design concepts effectively to clients and stakeholders.
+- **Produced high-quality graphic exhibits and renderings**: Communicated design concepts effectively to clients and stakeholders.
 
--   **Conducted survey fieldwork**: Gathered essential data for project planning, contributing to informed and accurate design decisions.
+- **Conducted survey fieldwork**: Gathered essential data for project planning, contributing to informed and accurate design decisions.
 
 ## Skills
 
--   **Project Management**: Effective in leading projects from conception to completion.
+- **Project Management**: Effective in leading projects from conception to completion.
 
--   **Design**: Skilled in creating innovative and functional landscape designs.
+- **Design**: Skilled in creating innovative and functional landscape designs.
 
--   **Research**: Proficient in conducting thorough proposal research and analysis.
+- **Research**: Proficient in conducting thorough proposal research and analysis.
 
--   **Data-Driven Design**: Expertise in spatial analysis and data visualization using GIS, R, and Python.
+- **Data-Driven Design**: Expertise in spatial analysis and data visualization using GIS, R, and Python.
 
--   **Collaboration**: Thrive in collaborative work environments, working effectively with teams and stakeholders.
+- **Collaboration**: Thrive in collaborative work environments, working effectively with teams and stakeholders.
 
 ## Personal Interests
 
-![Meet Ripley!](assets/ripley.png){width="406"}
+In my free time, I'm a musician and still an avid cook who loves to cook over an open fire. I have played in musical projects based in Gainesville, FL & Jamaica Plain, MA, including ***Kvetch***, ***Tiny Farm***, and ***Camp Hope***. I enjoy going on hikes with my dog **Ripley** and am a big sports fan, especially of Miami teams like the Heat, Panthers, and Dolphins.
 
-In my free time, I'm a musician and still an avid cook who loves to cook over an open fire. I have played in musical projects based in Gainesville, FL & Jamaica Plain, MA, including ***Kvetch***, ***Tiny Farm***, and ***Camp Hope***. I enjoy taking hikes with my dog **Ripley** and am a big sports fan, especially of Miami teams like the Heat, Panthers, and Dolphins.
+![Meet Ripley!](assets/ripley.png){width="406"}

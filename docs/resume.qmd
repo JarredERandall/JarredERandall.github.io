@@ -1,5 +1,5 @@
-ts---
-title: "Resume" 
+---
+title: "Resume"
 date: 2024-05-26
 published-title: Last Updated
 engine: knitr
@@ -7,6 +7,7 @@ freeze: false
 cv:
   pdf: "assets/JarredRandall_Resume.pdf"
 ---
+
 
 ```{css echo=FALSE}
 .embed-container {
