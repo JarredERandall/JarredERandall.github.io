@@ -46,7 +46,7 @@
     "href": "docs/Resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Resume Page 1"
+    "text": "Last Updated 2024-05-20"
   },
   {
     "objectID": "Projects.html",
@@ -54,5 +54,12 @@
     "title": "My Work",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Last Updated 2024-05-20"
   }
 ]

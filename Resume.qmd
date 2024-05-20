@@ -6,4 +6,11 @@ engine: knitr
 freeze: false
 ---
 
-![](assets/JarredRandall_Resume.png)
+<style>
+/* Hide the title and date */
+h1, .quarto-date {
+    display: none;
+}
+</style>
+
+![Last Updated 2024-05-20](assets/JarredRandall_Resume.png)
