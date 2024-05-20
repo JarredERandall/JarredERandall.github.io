@@ -6,4 +6,4 @@ engine: knitr
 freeze: false
 ---
 
-![Resume Page 1](assets/JarredRandall_Resume.png)
+![](assets/JarredRandall_Resume.png)
