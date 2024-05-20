@@ -9,9 +9,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd 
-      - resume.qmd
-      - music.qmd
+      - Projects.qmd 
+      - Resume.qmd
+      - Music.qmd
     right:
       - icon: linkedin
         href: "https://www.linkedin.com/in/jarredrandall/"
