@@ -1,42 +1,32 @@
 project:
   type: website
-  output-dir: docs/docs
-
-website:
-  title: "Jarred Ezra Randall"
-  favicon: "assets/profile.png"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - Projects.qmd 
-      - Resume.qmd
-      - Music.qmd
-    right:
-      - icon: linkedin
-        href: "https://www.linkedin.com/in/jarredrandall/"
-      - icon: github
-        href: "https://github.com/JarredERandall/"
-  search: 
-    location: navbar
-    type: overlay
-  page-navigation: true
-      
-  page-footer:
-    center: |
-      [Contact Me](mailto:JarredERandall@gmail.com)
-    left: |
-      Powered by [Quarto](https://quarto.org)
-    right: |
-      &#169; 2024 Jarred Ezra Randall
+  output-dir: docs
 
 format:
   html:
-    theme: 
-      light: cosmo
-    css: styles.css
     toc: true
-    pagetitle: "{{< meta title >}} | Jarred Ezra Randall"
+    theme: cosmo
+    css: styles.css
+    title-prefix: "Jarred Ezra Randall"
+    pagetitle: '{{< meta title >}} | Jarred Ezra Randall'
     smooth-scroll: true
-
-editor: source
+    metadata:
+      document-css: false
+      link-citations: true
+      date-format: long
+      lang: en
+      editor: source
+    about:
+      template: jolla
+      image-width: 20em
+      image-shape: round
+      links:
+        - icon: linkedin
+          text: LinkedIn
+          href: 'https://www.linkedin.com/in/jarredrandall/'
+        - icon: github
+          text: Github
+          href: 'https://github.com/JarredERandall/'
+        - icon: envelope
+          text: Contact me
+          href: 'mailto:jarrederandall@gmail.com'
