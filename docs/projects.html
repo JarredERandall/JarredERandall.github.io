@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./assets/profile.png" rel="icon" type="image/png">
+<link href="./assets/profile.jpeg" rel="icon" type="image/jpeg">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -72,9 +72,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -121,16 +121,20 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Projects.html" rel="" target="">
- <span class="menu-text">My Work</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./Resume.html" rel="" target="">
  <span class="menu-text">Resume</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./Projects.html" rel="" target="">
+ <span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./Music.html" rel="" target="">
  <span class="menu-text">Music</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Contact.html" rel="" target="">
+ <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -186,17 +190,25 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1715970826243" data-listing-reading-time-sort="0">
-<a href="./Projects/Practicum/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1715313600000" data-listing-file-modified-sort="1718813412583" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./Projects/Musa_Practicum/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<!-- img(9CEB782EFEE6)[progressive=false, height=150px]:Projects/Practicum/index.html -->
+<p class="card-img-top">
+<img src="./Projects/Musa_Practicum/app_screenshot.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+A Planning Support Tool for Affordable and Workforce Housing Site Identification
+</h5>
 <div class="card-text listing-description">
-<!-- desc(5A0113B34292)[max=175]:Projects/Practicum/index.html -->
+<!-- desc(5A0113B34292)[max=175]:Projects/Musa_Practicum/index.html -->
 </div>
-<div class="card-attribution card-text-small start">
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 
+</div>
+<div class="listing-date">
+May 10, 2024
 </div>
 </div>
 </div>

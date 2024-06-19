@@ -1,8 +1,9 @@
 ---
 title: "Resume"
 output: 
-  html: 
-    embed-resources: true
+  html_document: 
+    self_contained: true
+    css: styles.css
 ---
 
 <style>
@@ -15,6 +16,17 @@ h1, .quarto-date, .date, .header-date, .published-date, .last-updated {
 .navbar-brand {
     display: inline-block !important;
 }
+
+/* Center the PDF */
+.pdf-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
 </style>
 
-![Last Updated 05/20/2024](assets/JarredRandall_Resume.png)
+<div class="pdf-container">
+  <object data="assets/JarredRandall_Resume.pdf" type="application/pdf" width="800px" height="1100px">
+    <p>It appears you don't have a PDF plugin for this browser. No biggie... you can <a href="assets/JarredRandall_Resume.pdf">click here to download the PDF file.</a></p>
+  </object>
+</div>
