@@ -7,26 +7,17 @@ freeze: false
 image: "cap.png"
 ---
 
----
-title: "Bachelor of Landscape Architecture Portfolio: Landscape Architecture Projects"
-date: 04-2022
-categories: 
-engine: knitr
-freeze: false
-image: "portfolio.png"
----
-
 ```{css echo=FALSE}
 .left-aligned {
     text-align: left;
     margin-top: 20px;
-    margin-bottom: 20px; /* Adjust the bottom margin for spacing */
+    margin-bottom: 20px;
     margin-left: 20px; /* Align with text margin */
 }
 
 img, .pdf-container {
     width: 100%;
-    max-width: 800px; /* Increase max-width for larger display */
+    max-width: 600px;
     display: block;
     margin: 0 auto; /* Center the content */
     border: 2px solid black;
@@ -44,7 +35,7 @@ This capstone project was completed as part of the Landscape Architecture underg
 
 ```{=html}
 <div class="left-aligned">
-    <embed src="capstone.pdf" type="application/pdf" width="100%" height="800px" />
+    <embed src="capstone.pdf" type="application/pdf" width="100%" height="600px" />
     <p><a href="capstone.pdf" target="_blank">Download the Capstone Project</a></p>
 </div>
 ```
