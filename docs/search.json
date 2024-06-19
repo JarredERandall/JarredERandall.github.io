@@ -102,7 +102,7 @@
     "href": "Projects.html",
     "title": "My Work",
     "section": "",
-    "text": "No matching items"
+    "text": "A Planning Support Tool for Affordable and Workforce Housing Site Identification\n\n\n\n\n\n\n\n\n\nMay 10, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Contact.html#contact-info",
@@ -110,5 +110,54 @@
     "title": "Jarred Ezra Randall",
     "section": "Contact Info",
     "text": "Contact Info\n\n\n\n\n\n&lt;i class=\"fa fa-map-marker\" style=\"font-size: 24px;\"&gt;&lt;/i&gt;\n&lt;h3&gt;Address&lt;/h3&gt;\n&lt;p&gt;2055 Moore Street&lt;br&gt;Philadelphia, PA 19145&lt;/p&gt;\n\n\n&lt;i class=\"fa fa-phone\" style=\"font-size: 24px;\"&gt;&lt;/i&gt;\n&lt;h3&gt;Phone&lt;/h3&gt;\n&lt;p&gt;561-376-0708&lt;/p&gt;\n\n\n&lt;i class=\"fa fa-envelope\" style=\"font-size: 24px;\"&gt;&lt;/i&gt;\n&lt;h3&gt;Email&lt;/h3&gt;\n&lt;p&gt;&lt;a href=\"mailto:JarredERandall@gmail.com\"&gt;JarredERandall@gmail.com&lt;/a&gt;&lt;/p&gt;"
+  },
+  {
+    "objectID": "Projects/Musa_Practicum/index.html",
+    "href": "Projects/Musa_Practicum/index.html",
+    "title": "A Planning Support Tool for Affordable and Workforce Housing Site Identification",
+    "section": "",
+    "text": "For an independent study in applications of remote sensing for sustainable urban planning, I used Google Earth Engine and global wetlands datasets to train a Random Forest model on Landsat 7 spectral images and assess wetlands change from 2000 to 2020.\nMy model achieved 95% accuracy and 65% recall, and suggests that the Iberá wetlands have declined significantly in the past 20 years.\n\n\n\nAdditionally, for a wetland ecology class, I put together a presentation on how remote sensing is used for wetland monitoring:"
+  },
+  {
+    "objectID": "posts/Musa_Practicum/index.html",
+    "href": "posts/Musa_Practicum/index.html",
+    "title": "A Planning Support Tool for Affordable and Workforce Housing Site Identification",
+    "section": "",
+    "text": "This project was completed as part of the Master of Urban Spatial Analytics (MUSA) program practicum, where students collaborate with real-world clients to develop data science tools that help stakeholders better allocate their limited resources."
+  },
+  {
+    "objectID": "posts/Musa_Practicum/index.html#project-overview",
+    "href": "posts/Musa_Practicum/index.html#project-overview",
+    "title": "A Planning Support Tool for Affordable and Workforce Housing Site Identification",
+    "section": "Project Overview",
+    "text": "Project Overview\n\n  \n\nThis project was completed as part of the Master of Urban Spatial Analytics (MUSA) program practicum, where students collaborate with real-world clients to develop data science tools that help stakeholders better allocate their limited resources."
+  },
+  {
+    "objectID": "posts/Musa_Practicum/index.html#the-challenge",
+    "href": "posts/Musa_Practicum/index.html#the-challenge",
+    "title": "A Planning Support Tool for Affordable and Workforce Housing Site Identification",
+    "section": "The Challenge",
+    "text": "The Challenge\nWatauga County, located in a rural area of North Carolina, faces unique geographical and economic challenges in developing affordable housing. The limited wastewater sewage connections mean that septic permits are essential for new developments, adding a layer of complexity to site selection for housing projects."
+  },
+  {
+    "objectID": "posts/Musa_Practicum/index.html#our-solution",
+    "href": "posts/Musa_Practicum/index.html#our-solution",
+    "title": "A Planning Support Tool for Affordable and Workforce Housing Site Identification",
+    "section": "Our Solution",
+    "text": "Our Solution\nOur team, working closely with the Watauga Housing Council, developed a data-driven application leveraging advanced spatial analysis. We focused on identifying undeveloped parcels that mirrored the physical and spatial characteristics of parcels that had successfully obtained septic permits in the past."
+  },
+  {
+    "objectID": "posts/Musa_Practicum/index.html#impact-of-our-work",
+    "href": "posts/Musa_Practicum/index.html#impact-of-our-work",
+    "title": "A Planning Support Tool for Affordable and Workforce Housing Site Identification",
+    "section": "Impact of Our Work",
+    "text": "Impact of Our Work\nThe application we developed provides the Watauga Housing Council with actionable insights, empowering them to make informed decisions and strategically plan for sustainable housing development. This tool helps address the critical issue of affordable and workforce housing in the region, ensuring that resources are utilized effectively and developments are feasible."
+  },
+  {
+    "objectID": "posts/Musa_Practicum/index.html#further-reading",
+    "href": "posts/Musa_Practicum/index.html#further-reading",
+    "title": "A Planning Support Tool for Affordable and Workforce Housing Site Identification",
+    "section": "Further Reading",
+    "text": "Further Reading\nClick the image below to read the full report on RPubs, detailing our methodologies, findings, and the application’s impact."
   }
 ]

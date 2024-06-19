@@ -1,0 +1,76 @@
+---
+title: "MUSA Practicum Project: A Planning Support Tool for Affordable and Workforce Housing Site Identification"
+date: 05-10-2024
+categories: 
+engine: knitr
+freeze: false
+image: "pres.png"
+---
+
+---
+title: "A Planning Support Tool for Affordable and Workforce Housing Site Identification"
+date: 05-10-2024
+categories: 
+engine: knitr
+freeze: false
+image: "app_screenshot.png"
+---
+
+
+```{=html}
+<a href="https://rpubs.com/JarredRandall12/MUSAPracticum" target="_blank">
+  <img src="pres.png" alt="Click here to view the full report" style="width:100%; max-width:600px;">
+</a>
+```
+
+## Project Overview
+
+```{=html}
+<a href="https://rpubs.com/JarredRandall12/MUSAPracticum" target="_blank">
+  <img src="septic_process" alt="Click here to view the full report" style="width:100%; max-width:600px;">
+</a>
+```
+
+This project was completed as part of the Master of Urban Spatial Analytics (MUSA) program practicum, where students collaborate with real-world clients to develop data science tools that help stakeholders better allocate their limited resources.
+
+## The Challenge
+
+Watauga County, located in a rural area of North Carolina, faces unique geographical and economic challenges in developing affordable housing. The limited wastewater sewage connections mean that septic permits are essential for new developments, adding a layer of complexity to site selection for housing projects.
+
+
+```{=html}
+<a href="https://rpubs.com/JarredRandall12/MUSAPracticum" target="_blank">
+  <img src="septic_process" alt="Click here to view the full report" style="width:100%; max-width:600px;">
+</a>
+```
+## Our Solution
+
+Our team, working closely with the Watauga Housing Council, developed a data-driven application leveraging advanced spatial analysis. We focused on identifying undeveloped parcels that mirrored the physical and spatial characteristics of parcels that had successfully obtained septic permits in the past.
+
+```{=html}
+<a href="https://rpubs.com/JarredRandall12/MUSAPracticum" target="_blank">
+  <img src="model1" alt="Click here to view the full report" style="width:100%; max-width:600px;">
+</a>
+```
+
+## Impact of Our Work
+
+The application we developed provides the Watauga Housing Council with actionable insights, empowering them to make informed decisions and strategically plan for sustainable housing development. This tool helps address the critical issue of affordable and workforce housing in the region, ensuring that resources are utilized effectively and developments are feasible.
+
+```{=html}
+<a href="https://rpubs.com/JarredRandall12/MUSAPracticum" target="_blank">
+  <img src="app_screenshot" alt="Click here to view the full report" style="width:100%; max-width:600px;">
+</a>
+```
+
+## Further Reading
+
+Click the image below to read the full report on RPubs, detailing our methodologies, findings, and the application's impact.
+
+
+```{=html}
+<a href="https://rpubs.com/JarredRandall12/MUSAPracticum" target="_blank">
+  <img src="pres.png" alt="Click here to view the full report" style="width:100%; max-width:600px;">
+</a>
+```
+
