@@ -1,0 +1,42 @@
+---
+title: "Bachelor of Landscape Architecture Portfolio"
+date: 04-17-2022
+categories: 
+engine: knitr
+freeze: false
+image: "port.png"
+---
+
+```{css echo=FALSE}
+.left-aligned {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px; /* Adjust the bottom margin for spacing */
+    margin-left: 20px; /* Align with text margin */
+}
+
+img, .pdf-container {
+    width: 100%;
+    max-width: 1000px; /* Increase max-width for larger display */
+    display: block;
+    margin: 0 auto; /* Center the content */
+    border: 2px solid black;
+}
+
+body, h1, h2, h3, p {
+    text-align: left;
+    margin-left: 20px; /* Set this to match the image margin-left */
+
+```
+
+# Project Overview 
+This portfolio showcases a selection of projects completed as part of my Bachelor of Landscape Architecture (BLA) program at the University of Florida. The projects demonstrate my skills in urban design, site planning, and landscape construction, highlighting my ability to create functional, aesthetic, and sustainable outdoor spaces.
+
+This document includes a variety of design projects, such as urban plazas, stormwater management systems, and community parks. Each project reflects a comprehensive approach to landscape architecture, combining innovative design principles with practical solutions to address environmental and social challenges.
+
+```{=html}
+<div class="left-aligned">
+    <embed src="JarredRandall_Portfolio.pdf" type="application/pdf" width="100%" height="1000px" />
+    <p><a href="JarredRandall_Portfolio.pdf" target="_blank">Download the Portfolio</a></p>
+</div>
+```

@@ -1,0 +1,56 @@
+---
+title: "Targeting a Housing Subsidy: A Data-Driven Approach"
+date: 11-15-2023
+categories: 
+engine: knitr
+freeze: false
+image: "cross.png"
+---
+
+```{css echo=FALSE}
+.left-aligned {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px; /* Align with text margin */
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 0; /* Remove auto margin */
+    border: 2px solid black;
+}
+
+body, h1, h2, h3, p {
+    text-align: left;
+    margin-left: 20px; /* Set this to match the image margin-left */
+}
+```
+
+
+
+# Project Overview
+
+This project was completed as part of the Public Policy Analytics course at UPENN. Emil City is considering a more proactive approach for targeting homeowners who qualify for a home repair tax credit program. This analysis aimed to train the best classifier to predict which homeowners are most likely to accept the credit and use the results to inform a cost/benefit analysis. By leveraging historical campaign data, we developed models to predict homeowners' likelihood of accepting the subsidy and conducted a comprehensive cost-benefit analysis. The goal was to optimize resource allocation and increase participation in the credit program.
+
+```{=html}
+<div class="left-aligned">
+    <a href="http://rpubs.com/JarredRandall12/Housingsubsidy" target="_blank">
+        <img src="cross.png" alt="Click here to view the full report">
+    </a>
+</div>
+```
+
+
+
+***Click any image to read the full report on RPubs, detailing our methodologies and findings.***
+
+```{=html}
+<div class="left-aligned">
+    <a href="http://rpubs.com/JarredRandall12/Housingsubsidy" target="_blank">
+        <img src="sub.png" alt="Click here to view the full report">
+    </a>
+</div>
+```

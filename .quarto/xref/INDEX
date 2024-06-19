@@ -55,5 +55,26 @@
   },
   "posts/Musa_Practicum/index.qmd": {
     "index.html": "dc1a0fd2"
+  },
+  "posts/Fairbnb/index.qmd": {
+    "index.html": "c7491fab"
+  },
+  "posts/UrbanGrowthModel/index.qmd": {
+    "index.html": "efc2dfab"
+  },
+  "posts/Writing_Samples/index.qmd": {
+    "index.html": "c69712d2"
+  },
+  "posts/TargetingHousingSubsidy/index.qmd": {
+    "index.html": "190baff5"
+  },
+  "posts/PythonFinal/index.qmd": {
+    "index.html": "b38fadbe"
+  },
+  "posts/UndergradCapstone/index.qmd": {
+    "index.html": "028e510a"
+  },
+  "posts/UndergradPortfolio/index.qmd": {
+    "index.html": "44fcc229"
   }
 }
