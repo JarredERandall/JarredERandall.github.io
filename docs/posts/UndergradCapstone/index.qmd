@@ -1,0 +1,41 @@
+---
+title: "Design for Distressed Public Housing: Creating Supportive Living Environments through Outdoor Public Spaces"
+date: 04-10-2022
+categories:
+engine: knitr
+freeze: false
+image: "cap.png"
+---
+
+```{css echo=FALSE}
+.left-aligned {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px; /* Align with text margin */
+}
+
+img, .pdf-container {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 0 auto; /* Center the content */
+    border: 2px solid black;
+}
+
+body, h1, h2, h3, p {
+    text-align: left;
+    margin-left: 20px; /* Set this to match the image margin-left */
+}
+```
+
+# Project Overview
+
+This capstone project was completed as part of the Landscape Architecture undergraduate program at the University of Florida. The project explores how landscape architects can use outdoor public spaces to create supportive living environments for residents of severely distressed public housing. The project focuses on addressing the physical and social issues that contribute to the distress in public housing, such as physical deterioration, crime, residential distress, and high concentrations of poverty. Through design interventions in outdoor spaces, the project aims to provide relief for residents and create a more supportive living environment until more suitable housing options are available.
+
+```{=html}
+<div class="left-aligned">
+    <embed src="capstone.pdf" type="application/pdf" width="100%" height="600px" />
+    <p><a href="capstone.pdf" target="_blank">Download the Capstone Project</a></p>
+</div>
+```

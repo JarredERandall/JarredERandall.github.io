@@ -1,0 +1,53 @@
+---
+title: "Amsterdam in Balance: Data-Driven Strategies for Managing Overtourism and Short-Term Rentals"
+date: 12-15-2023
+categories: 
+engine: knitr
+freeze: false
+image: "fair.png"
+---
+
+```{css echo=FALSE}
+.left-aligned {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px; /* Align with text margin */
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 0; /* Remove auto margin */
+    border: 2px solid black;
+}
+
+body, h1, h2, h3, p {
+    text-align: left;
+    margin-left: 20px; /* Set this to match the image margin-left */
+}
+```
+
+## Project Overview
+
+This study examines the impact of overtourism in Amsterdam and explores data-driven strategies for managing short-term rentals. The project focuses on the implementation and outcomes of regulatory measures, and the role of the Fairbnb app in ensuring compliance and promoting fair rental practices.
+
+```{=html}
+<div class="left-aligned">
+    <a href="http://rpubs.com/JarredRandall12/fairbnb">
+        <img src="airbnb.png" alt="Click here to view the full report">
+    </a>
+</div>
+```
+This project was completed as part of the Public Policy Analytics course at UPENN, where students analyze real-world issues using data science tools. My partner, Nohman Akharti, and I collaborated to deliver comprehensive insights into the challenges and opportunities presented by Amsterdam’s tourist boom. By leveraging a variety of data sources, including Airbnb activity, housing market trends, and regulatory impacts, we developed models to predict the effects of different policy measures on local housing and tourism dynamics.
+
+***Click any image to read the full report on RPubs, detailing our methodologies, findings, and the broader implications of our analysis.***
+
+```{=html}
+<div class="left-aligned">
+    <a href="http://rpubs.com/JarredRandall12/fairbnb" target="_blank">
+        <img src="fair.png" alt="Application Screenshot" style="width:100%; max-width:300px; height:auto;">
+    </a>
+</div>
+```

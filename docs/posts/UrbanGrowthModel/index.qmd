@@ -1,0 +1,52 @@
+---
+title: "Predictive Urban Planning for 2031: Analyzing Development Trends in Atlanta"
+date: 05-09-2024
+categories: 
+engine: knitr
+freeze: false
+image: "poster.png"
+---
+
+```{css echo=FALSE}
+.left-aligned {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px; /* Align with text margin */
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 0; /* Remove auto margin */
+    border: 2px solid black;
+}
+
+body, h1, h2, h3, p {
+    text-align: left;
+    margin-left: 20px; /* Set this to match the image margin-left */
+}
+```
+
+# Project Overview
+
+This study forecasts urban development in Atlanta for the year 2031 using historical land use data, demographic changes, and transportation dynamics from 2011 to 2021. We employed a binary logistic regression model to predict future development patterns, supporting the Metropolitan Planning Organization (MPO) in strategic planning for sustainable growth.
+
+```{=html}
+<div class="left-aligned">
+    <embed src="Randall_Duamor_POSTER.pdf" type="application/pdf" width="100%" height="600px" />
+    <p><a href="Randall_Duamor_POSTER.pdf" target="_blank">Download the Poster</a></p>
+</div>
+
+```
+
+This project was completed as part of the Land Use and Environmental Modeling course at UPENN. My partner, Sylvanus Duamor, and I analyzed development trends to provide actionable insights for the Atlanta MPO. By leveraging various data sources, we developed models to predict the effects of different policy measures on future urban growth.
+
+```{=html}
+<div class="left-aligned">
+    <embed src="Randall_Duamor_MEMO.pdf" type="application/pdf" width="100%" height="600px" />
+    <p><a href="Randall_Duamor_MEMO.pdf" target="_blank">Download the MEMO</a></p>
+</div>
+
+```

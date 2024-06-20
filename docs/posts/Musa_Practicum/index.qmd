@@ -1,0 +1,51 @@
+---
+title: "A Planning Support Tool for Affordable and Workforce Housing Site Identification"
+date: 05-10-2024
+categories: 
+engine: knitr
+freeze: false
+image: "pres.png"
+---
+
+```{css echo=FALSE}
+.left-aligned {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px; /* Align with text margin */
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 0; /* Remove auto margin */
+    border: 2px solid black;
+}
+
+body, h1, h2, h3, p {
+    text-align: left;
+    margin-left: 20px; /* Set this to match the image margin-left */
+}
+```
+
+## Project Overview
+
+```{=html}
+<div class="left-aligned">
+    <a href="https://rpubs.com/JarredRandall12/MUSAPracticum" target="_blank">
+        <img src="pres.png" alt="Click here to view the full report">
+    </a>
+</div>
+```
+This project was completed as part of the UPENN Master of Urban Spatial Analytics (MUSA) program practicum, where students collaborate with real-world clients to develop data science tools that help stakeholders better allocate resources. My team worked closely with the Watauga Housing Council to develop a data-driven application that leverages spatial analysis to identify parcels most suitable for development in Watauga County, North Carolina. This project addressed the critical issue of affordable and workforce housing in a region with challenging geographical and economic conditions. Because of the rural location, Watauga County has limited wastewater sewage connections, making septic permits essential for new development. To streamline the site selection process, we analyzed the physical and spatial characteristics of parcels that had successfully obtained septic permits in the past, targeting undeveloped parcels with similar attributes. Our application provides actionable insights, empowering the Watauga Housing Council to make informed decisions and strategically plan for sustainable housing development.
+
+***Click any image to read the full report on RPubs, detailing our methodologies, findings, and the application's impact.***
+
+```{=html}
+<div class="left-aligned">
+    <a href="https://rpubs.com/JarredRandall12/MUSAPracticum" target="_blank">
+        <img src="app_screenshot.png" alt="Application Screenshot">
+    </a>
+</div>
+```
