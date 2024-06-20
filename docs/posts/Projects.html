@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Jarred Ezra Randall | Jarred Ezra Randall</title>
+<title>My Work | Jarred Ezra Randall</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,9 +31,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./assets/profile.jpeg" rel="icon" type="image/jpeg">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -59,8 +62,39 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -83,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -91,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Resume</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Projects.html" rel="" target="">
+    <a class="nav-link active" href="./Projects.html" rel="" target="" aria-current="page">
  <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
@@ -122,92 +156,270 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">My Work</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-  <ul>
-  <li><a href="#about-me" id="toc-about-me" class="nav-link active" data-scroll-target="#about-me">About Me</a>
-  <ul class="collapse">
-  <li><a href="#professional-work" id="toc-professional-work" class="nav-link" data-scroll-target="#professional-work">Professional Work</a></li>
-  <li><a href="#skills" id="toc-skills" class="nav-link" data-scroll-target="#skills">Skills</a></li>
-  <li><a href="#personal-interests" id="toc-personal-interests" class="nav-link" data-scroll-target="#personal-interests">Personal Interests</a></li>
-  </ul></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="assets/profile.png" class="about-image
-  round " style="height: 20em; width: 20em;">
- <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Jarred Ezra Randall</h1>
-<p class="subtitle lead">Master’s of Urban Spatial Analytics | Bachelor’s in Landscape Architecture | Landscape Designer II</p>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header><main class="content" id="quarto-document-content">
-
-<section id="about-me" class="level1">
-<h1>About Me</h1>
-<p>I am a Miami-born, Philadelphia-based recent graduate of the Master of Urban Spatial Analytics (MUSA) program with a concentration in Affordable Housing &amp; Policy from the University of Pennsylvania. I hold a Bachelor’s degree in Landscape Architecture from the University of Florida and have professional experience as a Landscape Designer II, Project Manager, and Chef. My diverse background has equipped me with the ability to thrive in collaborative, deadline-driven work environments and effectively manage teams during high-pressure periods.</p>
-<p>My passion lies in using design as a tool for social justice, promoting equitable urban green spaces, implementing green infrastructure, and engaging in community-driven design practices. I possess a robust skill set that includes proficiency in data-driven design, spatial analysis, GIS, data visualization, research, project management, problem-solving, and programming in R and Python. Throughout my career, I have consistently demonstrated the ability to manage projects effectively, excel in team-oriented environments, and deliver excellent communication, time management, and a strong work ethic</p>
-<section id="professional-work" class="level2">
-<h2 data-anchor-id="professional-work">Professional Work</h2>
-<ul>
-<li><strong>Lead various landscape design projects</strong>: Demonstrated strong project management skills, ensuring timely and successful project completion.</li>
-<li><strong>Conducted in-depth proposal research</strong>: Resulted in a higher project win rate by providing detailed and compelling project proposals.</li>
-<li><strong>Created innovative conceptual designs</strong>: Met client specifications and exceeded expectations through creativity and attention to detail.</li>
-<li><strong>Developed comprehensive hardscape and planting construction documents and details</strong>: Ensured accurate and detailed plans for implementation.</li>
-<li><strong>Coordinated with regulatory agencies</strong>: Ensured project compliance and smooth approval processes by liaising effectively with relevant authorities.</li>
-<li><strong>Produced high-quality graphic exhibits and renderings</strong>: Communicated design concepts effectively to clients and stakeholders.</li>
-<li><strong>Conducted survey fieldwork</strong>: Gathered essential data for project planning, contributing to informed and accurate design decisions.</li>
-</ul>
-</section>
-<section id="skills" class="level2">
-<h2 data-anchor-id="skills">Skills</h2>
-<ul>
-<li><strong>Project Management</strong>: Effective in leading projects from conception to completion.</li>
-<li><strong>Design</strong>: Skilled in creating innovative and functional landscape designs.</li>
-<li><strong>Research</strong>: Proficient in conducting thorough proposal research and analysis.</li>
-<li><strong>Data-Driven Design</strong>: Expertise in spatial analysis and data visualization using GIS, R, and Python.</li>
-<li><strong>Collaboration</strong>: Thrive in collaborative work environments, working effectively with teams and stakeholders.</li>
-</ul>
-</section>
-<section id="personal-interests" class="level2">
-<h2 data-anchor-id="personal-interests">Personal Interests</h2>
-<p>In my free time, I’m a musician and still an avid cook who loves to cook over an open fire. I have played in musical projects based in Gainesville, FL &amp; Jamaica Plain, MA, including <strong><em>Kvetch</em></strong>, <strong><em>Tiny Farm</em></strong>, and <strong><em>Camp Hope</em></strong>. I enjoy going on hikes with my dog <strong>Ripley</strong> and am a big sports fan, especially of Miami teams like the Heat, Panthers, and Dolphins.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="assets/ripley.png" class="img-fluid figure-img" width="406"></p>
-<figcaption class="figure-caption">Meet Ripley!</figcaption>
-</figure>
-</div>
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
-</section>
-</section>
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://www.linkedin.com/in/jarredrandall/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/JarredERandall/" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="mailto:JarredERandall@gmail.com" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Contact me</span>
-  </a>
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1715313600000" data-listing-file-modified-sort="1718890175570" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/Musa_Practicum/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/Musa_Practicum/pres.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+A Planning Support Tool for Affordable and Workforce Housing Site Identification
+</h5>
+<div class="card-text listing-description">
+This project was completed as part of the UPENN Master of Urban Spatial Analytics (MUSA) program practicum, where students collaborate with real-world clients to develop…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 10, 2024
 </div>
 </div>
- <!-- /main -->
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1715227200000" data-listing-file-modified-sort="1718890176001" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/UrbanGrowthModel/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/UrbanGrowthModel/poster.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Predictive Urban Planning for 2031: Analyzing Development Trends in Atlanta
+</h5>
+<div class="card-text listing-description">
+This study forecasts urban development in Atlanta for the year 2031 using historical land use data, demographic changes, and transportation dynamics from 2011 to 2021. We…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 9, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-date-sort="1713499200000" data-listing-file-modified-sort="1718890176042" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./posts/Writing_Samples/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/Writing_Samples/sample.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Policy Analysis and Recommendation Writing Samples
+</h5>
+<div class="card-text listing-description">
+These documents presents policy analysis and recommendation writing samples completed as part of my coursework at the University of Pennsylvania.…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 19, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-date-sort="1712116800000" data-listing-file-modified-sort="1718892997453" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/EstimatingFlood/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/EstimatingFlood/screen.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Flood Prediction and Preparedness: A Case Study of Calgary and Denver
+</h5>
+<div class="card-text listing-description">
+In June 2013, Calgary experienced extreme flooding, displacing 100,000 people and causing $1.7 billion in damages. This project aims to develop a predictive model using…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 3, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-date-sort="1702616400000" data-listing-file-modified-sort="1718890175393" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/Fairbnb/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/Fairbnb/fair.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Amsterdam in Balance: Data-Driven Strategies for Managing Overtourism and Short-Term Rentals
+</h5>
+<div class="card-text listing-description">
+This study examines the impact of overtourism in Amsterdam and explores data-driven strategies for managing short-term…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Dec 15, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-date-sort="1702616400000" data-listing-file-modified-sort="1718890175657" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/PythonFinal/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/PythonFinal/11.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Exploring Digital Equity: A Geospatial Analysis of the Digital Divide
+</h5>
+<div class="card-text listing-description">
+This project was completed as part of the MUSA 550 Geospatial Data Science In Python course at UPENN. Our team sought to understand the varied digital equity landscape at…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Dec 15, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-date-sort="1700024400000" data-listing-file-modified-sort="1718890175705" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/TargetingHousingSubsidy/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/TargetingHousingSubsidy/cross.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Targeting a Housing Subsidy: A Data-Driven Approach
+</h5>
+<div class="card-text listing-description">
+This project was completed as part of the Public Policy Analytics course at UPENN. Emil City is considering a more proactive approach for targeting homeowners who qualify…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Nov 15, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-date-sort="1649563200000" data-listing-file-modified-sort="1718890175890" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./posts/UndergradCapstone/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/UndergradCapstone/cap.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Design for Distressed Public Housing: Creating Supportive Living Environments through Outdoor Public Spaces
+</h5>
+<div class="card-text listing-description">
+This capstone project was completed as part of the Landscape Architecture undergraduate program at the University of Florida. The project explores how landscape architects…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 10, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-date-sort="1649563200000" data-listing-file-modified-sort="1718896086920" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./posts/UndergradPortfolio/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/UndergradPortfolio/port.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bachelor of Landscape Architecture Portfolio: Landscape Architecture Projects
+</h5>
+<div class="card-text listing-description">
+This portfolio showcases a selection of projects completed as part of my Bachelor of Landscape Architecture (BLA) program at the University of Florida. The…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 10, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -228,6 +440,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

@@ -20,9 +20,9 @@ about:
 
 # About Me
 
-I am a Miami-born, Philadelphia-based recent graduate of the Urban Spatial Analytics (MUSA) program with a concentration in Affordable Housing & Policy from the University of Pennsylvania. I hold a Bachelor’s degree in Landscape Architecture from the University of Florida and have professional experience as a Landscape Designer II. My background also includes working as a chef, which has equipped me with the ability to thrive in collaborative, deadline-driven work environments and effectively manage teams during stressful periods.
+I am a Miami-born, Philadelphia-based recent graduate of the Master of Urban Spatial Analytics (MUSA) program with a concentration in Affordable Housing & Policy from the University of Pennsylvania. I hold a Bachelor’s degree in Landscape Architecture from the University of Florida and have professional experience as a Landscape Designer II, Project Manager, and Chef. My diverse background has equipped me with the ability to thrive in collaborative, deadline-driven work environments and effectively manage teams during high-pressure periods.
 
-I have a strong interest in design as a means for social justice, equitable urban green space, green infrastructure, and community-driven design practices. My skill set includes proficiency in data-driven design, spatial analysis, GIS, data visualization, R, and Python programming. Throughout my career, I have demonstrated the ability to manage projects effectively, thrive in collaborative work environments, and provide excellent communication, time management, and a strong work ethic.
+My passion lies in using design as a tool for social justice, promoting equitable urban green spaces, implementing green infrastructure, and engaging in community-driven design practices. I possess a robust skill set that includes proficiency in data-driven design, spatial analysis, GIS, data visualization, research, project management, problem-solving, and programming in R and Python. Throughout my career, I have consistently demonstrated the ability to manage projects effectively, excel in team-oriented environments, and deliver excellent communication, time management, and a strong work ethic
 
 ## Professional Work
 
