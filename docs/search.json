@@ -88,7 +88,7 @@
     "href": "docs/resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Last Updated 05/20/2024"
+    "text": "It appears you don’t have a PDF plugin for this browser. No biggie… you can click here to download the PDF file."
   },
   {
     "objectID": "docs/projects.html",
@@ -102,7 +102,7 @@
     "href": "Projects.html",
     "title": "My Work",
     "section": "",
-    "text": "A Planning Support Tool for Affordable and Workforce Housing Site Identification\n\n\n\n\n\n\n\n\n\nMay 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredictive Urban Planning for 2031: Analyzing Development Trends in Atlanta\n\n\n\n\n\n\n\n\n\nMay 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolicy Analysis and Recommendation Writing Samples\n\n\n\n\n\n\n\n\n\nApr 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAmsterdam in Balance: Data-Driven Strategies for Managing Overtourism and Short-Term Rentals\n\n\n\n\n\n\n\n\n\nDec 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Digital Equity: A Geospatial Analysis of the Digital Divide\n\n\n\n\n\n\n\n\n\nDec 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTargeting a Housing Subsidy: A Data-Driven Approach\n\n\n\n\n\n\n\n\n\nNov 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBachelor of Landscape Architecture Portfolio\n\n\n\n\n\n\n\n\n\nApr 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesign for Distressed Public Housing: Creating Supportive Living Environments through Outdoor Public Spaces\n\n\n\n\n\n\n\n\n\nApr 10, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "A Planning Support Tool for Affordable and Workforce Housing Site Identification\n\n\n\n\n\n\n\n\n\nMay 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredictive Urban Planning for 2031: Analyzing Development Trends in Atlanta\n\n\n\n\n\n\n\n\n\nMay 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolicy Analysis and Recommendation Writing Samples\n\n\n\n\n\n\n\n\n\nApr 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAmsterdam in Balance: Data-Driven Strategies for Managing Overtourism and Short-Term Rentals\n\n\n\n\n\n\n\n\n\nDec 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Digital Equity: A Geospatial Analysis of the Digital Divide\n\n\n\n\n\n\n\n\n\nDec 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTargeting a Housing Subsidy: A Data-Driven Approach\n\n\n\n\n\n\n\n\n\nNov 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesign for Distressed Public Housing: Creating Supportive Living Environments through Outdoor Public Spaces\n\n\n\n\n\n\n\n\n\nApr 10, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Contact.html#contact-info",
@@ -229,5 +229,33 @@
     "title": "Bachelor of Landscape Architecture Portfolio",
     "section": "",
     "text": "Project Overview\nThis portfolio showcases a selection of projects completed as part of my Bachelor of Landscape Architecture (BLA) program at the University of Florida. The projects demonstrate my skills in urban design, site planning, and landscape construction, highlighting my ability to create functional, aesthetic, and sustainable outdoor spaces.\nThis document includes a variety of design projects, such as urban plazas, stormwater management systems, and community parks. Each project reflects a comprehensive approach to landscape architecture, combining innovative design principles with practical solutions to address environmental and social challenges.\n\n    \n    Download the Portfolio"
+  },
+  {
+    "objectID": "posts/EstimatingFlood/index.html",
+    "href": "posts/EstimatingFlood/index.html",
+    "title": "Flood Prediction and Preparedness: A Case Study of Calgary and Denver",
+    "section": "",
+    "text": "Project Overview\n\n    \n        \n    \n\nIn June 2013, Calgary experienced extreme flooding, displacing 100,000 people and causing $1.7 billion in damages. This project aims to develop a predictive model using logistic regression to help Calgary and similar cities better prepare for such events. By analyzing predictors like elevation, land cover, slope, distance to water, and water flow accumulation, the model helps identify areas at risk of flooding beyond just riverine zones.\nThe model’s results aid in early action and planning, assisting decision-makers and the public in identifying areas needing evacuation, buyouts, or building code revisions. Using data from the 2013 Calgary flood, we also applied the model to predict flood risks in Denver, a city with similar geographic characteristics.\nThis project was completed as part of the Land Use and Environmental Modeling course (CPLN 6750 / MUSA 6750) at the University of Pennsylvania. It demonstrates the application of spatial data and empirical models to support decision-making in urban planning and disaster preparedness.\nClick any image to read the full report on RPubs, detailing our methodologies and findings."
+  },
+  {
+    "objectID": "docs/Contact.html",
+    "href": "docs/Contact.html",
+    "title": "Jarred Ezra Randall",
+    "section": "",
+    "text": "Contact Info\n  \n    \n      \n      Address\n      2055 Moore StreetPhiladelphia, PA 19145\n    \n    \n      \n      Phone\n      561-376-0708\n    \n    \n      \n      Email\n      JarredERandall@gmail.com"
+  },
+  {
+    "objectID": "docs/docs/Resume.html",
+    "href": "docs/docs/Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "It appears you don’t have a PDF plugin for this browser. No biggie… you can click here to download the PDF file."
+  },
+  {
+    "objectID": "docs/docs/Projects.html",
+    "href": "docs/docs/Projects.html",
+    "title": "My Work",
+    "section": "",
+    "text": "No matching items"
   }
 ]

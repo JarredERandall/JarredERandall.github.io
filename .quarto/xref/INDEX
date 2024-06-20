@@ -76,5 +76,17 @@
   },
   "posts/UndergradPortfolio/index.qmd": {
     "index.html": "44fcc229"
+  },
+  "posts/EstimatingFlood/index.qmd": {
+    "index.html": "ca7021e9"
+  },
+  "docs/Contact.qmd": {
+    "Contact.html": "7a88d65d"
+  },
+  "docs/docs/Projects.qmd": {
+    "Projects.html": "cc8ada14"
+  },
+  "docs/docs/Resume.qmd": {
+    "Resume.html": "49c48682"
   }
 }
