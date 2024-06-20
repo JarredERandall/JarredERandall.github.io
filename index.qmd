@@ -36,14 +36,15 @@ My passion lies in using design as a tool for social justice, promoting equitabl
 
 ## Skills
 
--   **Project Management**: Effective in leading projects from conception to completion.
--   **Design**: Skilled in creating innovative and functional landscape designs.
+-   **Project Management & Leadership**: Effective in leading projects from conception to completion.
+-   **Creative Thinking and Problem Solving**: Adept at generating innovative solutions and tackling complex challenges.
 -   **Research**: Proficient in conducting thorough proposal research and analysis.
+-   **Advanced Data Analysis, Visualization, and Management: Skilled in utilizing advanced techniques for data analysis, visualization, and management to drive informed decision-making.
 -   **Data-Driven Design**: Expertise in spatial analysis and data visualization using GIS, R, and Python.
 -   **Collaboration**: Thrive in collaborative work environments, working effectively with teams and stakeholders.
 
 ## Personal Interests
 
-In my free time, I'm a musician and still an avid cook who loves to cook over an open fire. I have played in musical projects based in Gainesville, FL & Jamaica Plain, MA, including ***Kvetch***, ***Tiny Farm***, and ***Camp Hope***. I enjoy going on hikes with my dog **Ripley** and am a big sports fan, especially of Miami teams like the Heat, Panthers, and Dolphins.
+In my free time, I'm a musician and still an avid cook who loves to cook over an open fire. I have played in musical projects based in Gainesville, FL & Jamaica Plain, MA, including ***Kvetch***, ***Tiny Farm***, and ***Camp Hope***. I also enjoy fishing & going on hikes with my dog **Ripley** and am a big sports fan, especially of Miami teams like the Heat, Panthers, and Dolphins.
 
 ![Meet Ripley!](assets/ripley.png){width="406"}
