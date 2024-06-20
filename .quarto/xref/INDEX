@@ -88,5 +88,32 @@
   },
   "docs/docs/Resume.qmd": {
     "Resume.html": "49c48682"
+  },
+  "docs/posts/EstimatingFlood/index.qmd": {
+    "index.html": "0399b780"
+  },
+  "docs/posts/Fairbnb/index.qmd": {
+    "index.html": "377ccb4e"
+  },
+  "docs/posts/Musa_Practicum/index.qmd": {
+    "index.html": "97e71be9"
+  },
+  "docs/posts/PythonFinal/index.qmd": {
+    "index.html": "a2a6210b"
+  },
+  "docs/posts/TargetingHousingSubsidy/index.qmd": {
+    "index.html": "43ee7e52"
+  },
+  "docs/posts/UndergradCapstone/index.qmd": {
+    "index.html": "a4a08cb9"
+  },
+  "docs/posts/UndergradPortfolio/index.qmd": {
+    "index.html": "45893ae5"
+  },
+  "docs/posts/UrbanGrowthModel/index.qmd": {
+    "index.html": "53347461"
+  },
+  "docs/posts/Writing_Samples/index.qmd": {
+    "index.html": "937cfe52"
   }
 }
