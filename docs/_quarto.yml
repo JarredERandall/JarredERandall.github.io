@@ -4,14 +4,19 @@ project:
 
 website:
   title: "Jarred Ezra Randall"
-  favicon: "assets/profile.png"
+  favicon: "assets/profile.jpeg"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - Projects.qmd 
-      - Resume.qmd
-      - Music.qmd
+      - href: Resume.qmd
+        text: Resume
+      - href: Projects.qmd
+        text: Projects
+      - href: Music.qmd
+        text: Music
+      - href: Contact.qmd
+        text: Contact
     right:
       - icon: linkedin
         href: "https://www.linkedin.com/in/jarredrandall/"
@@ -28,7 +33,8 @@ website:
     left: |
       Powered by [Quarto](https://quarto.org)
     right: |
-      &#169; 2024 Jarred Ezra Randall
+      &#169; 2024 Jarred Ezra Randall 
+    background: "#f8f9fa"
 
 format:
   html:
