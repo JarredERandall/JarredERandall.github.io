@@ -1,0 +1,82 @@
+---
+title: "Music"
+output: 
+  html: 
+    embed-resources: true
+---
+
+```{=html}
+<style>
+/* Hide the title in the document body */
+h1.title {
+    display: none;
+}
+
+
+/* Add a very faint light grey background and adjust body text size */
+body {
+    background-color: #f8f8f8;
+    margin: 0;
+    font-style: italic; /* Italicize the body text */
+}
+
+/* Ensure only body text is resized */
+.container p {
+    font-size: 14px; /* Set body text size to 14px */
+}
+
+/* Center the flex container and ensure uniform spacing */
+.container {
+    display: flex;
+    justify-content: center; /* Center the entire container */
+    align-items: flex-start; /* Align items at the start to ensure alignment */
+    width: 100%;
+    margin: 130px 0 0 60px; /* Move the container down by 130px and left by 75px */
+    padding: 40px 0; /* Add padding to center content vertically */
+    position: relative;
+    z-index: 1; /* Ensure content is above the overlay */
+}
+
+/* Center each item inside the container */
+.container > div {
+    text-align: center;
+}
+
+.container img {
+    width: 350px; /* Set a fixed width for uniformity */
+    height: 350px; /* Set a fixed height for uniformity */
+    object-fit: cover; /* Ensure images are properly cropped */
+    border-radius: 8px;
+    display: block; /* Ensure images are block-level for alignment */
+    margin: 0 auto; /* Center images horizontally within their div */
+}
+
+.left,
+.right {
+    margin: 0 150px; /* Space the left and right images 100px from the center image */
+}
+</style>
+<div class="container">
+  <div class="left">
+    <a href="https://kvetchgnv.bandcamp.com/album/songs-to-complain-about" target="_blank">
+      <img src="assets/kvetch.png" alt="Kvetch">
+    </a>
+    <h3>Kvetch</h3>
+    <p>Based in Gainesville, FL with Zach Randall and Dave LeBleu.</p>
+  </div>
+  <div class="center">
+    <a href="https://tinyfarm.bandcamp.com/album/tiny-demo" target="_blank">
+      <img src="assets/tiny.png" alt="Tiny Farm">
+    </a>
+    <h3>Tiny Farm</h3>
+    <p>Based in Gainesville, FL with Zach Randall.</p>
+  </div>
+  <div class="right">
+    <a href="https://camphope.bandcamp.com/album/camp-hope-demo" target="_blank">
+      <img src="assets/camp.png" alt="Camp Hope">
+    </a>
+    <h3>Camp Hope</h3>
+    <p>Based in Jamaica Plain, MA with Jesus Vio, Phillip Agres, and Zack Lanoue.</p>
+  </div>
+</div>
+```
