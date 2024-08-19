@@ -15,36 +15,45 @@ about:
       href: https://github.com/JarredERandall/
     - icon: envelope
       text: Contact me
-      href: "mailto:JarredERandall@gmail.com"
+      href: mailto:jarrederandall@gmail.com
 ---
 
 # About Me
 
-I am a Miami-born, Philadelphia-based recent graduate of the Master of Urban Spatial Analytics (MUSA) program with a concentration in Affordable Housing & Policy from the University of Pennsylvania. I hold a Bachelor’s degree in Landscape Architecture from the University of Florida and have professional experience as a Landscape Designer II, Project Manager, and Chef. My diverse background has equipped me with the ability to thrive in collaborative, deadline-driven work environments and effectively manage teams during high-pressure periods.
+I am a Miami-born, Philadelphia-based recent graduate of the Urban Spatial Analytics (MUSA) program with a concentration in Affordable Housing & Policy from the University of Pennsylvania. I hold a Bachelor’s degree in Landscape Architecture from the University of Florida and have professional experience as a Landscape Designer II. My background also includes working as a chef, which has equipped me with the ability to thrive in collaborative, deadline-driven work environments and effectively manage teams during stressful periods.
 
-My passion lies in using design as a tool for social justice, promoting equitable urban green spaces, implementing green infrastructure, and engaging in community-driven design practices. I possess a robust skill set that includes proficiency in data-driven design, spatial analysis, GIS, data visualization, research, project management, problem-solving, and programming in R and Python. Throughout my career, I have consistently demonstrated the ability to manage projects effectively, excel in team-oriented environments, and deliver excellent communication, time management, and a strong work ethic
+I have a strong interest in design as a means for social justice, equitable urban green space, green infrastructure, and community-driven design practices. My skill set includes proficiency in data-driven design, spatial analysis, GIS, data visualization, R, and Python programming. Throughout my career, I have demonstrated the ability to manage projects effectively, thrive in collaborative work environments, and provide excellent communication, time management, and a strong work ethic.
 
 ## Professional Work
 
--   **Lead various landscape design projects**: Demonstrated strong project management skills, ensuring timely and successful project completion.
--   **Conducted in-depth proposal research**: Resulted in a higher project win rate by providing detailed and compelling project proposals.
--   **Created innovative conceptual designs**: Met client specifications and exceeded expectations through creativity and attention to detail.
--   **Developed comprehensive hardscape and planting construction documents and details**: Ensured accurate and detailed plans for implementation.
--   **Coordinated with regulatory agencies**: Ensured project compliance and smooth approval processes by liaising effectively with relevant authorities.
--   **Produced high-quality graphic exhibits and renderings**: Communicated design concepts effectively to clients and stakeholders.
--   **Conducted survey fieldwork**: Gathered essential data for project planning, contributing to informed and accurate design decisions.
+- **Lead various landscape design projects**: Demonstrated strong project management skills, ensuring timely and successful project completion.
+
+- **Conducted in-depth proposal research**: Resulted in a higher project win rate by providing detailed and compelling project proposals.
+
+- **Created innovative conceptual designs**: Met client specifications and exceeded expectations through creativity and attention to detail.
+
+- **Developed comprehensive hardscape and planting construction documents and details**: Ensured accurate and detailed plans for implementation.
+
+- **Coordinated with regulatory agencies**: Ensured project compliance and smooth approval processes by liaising effectively with relevant authorities.
+
+- **Produced high-quality graphic exhibits and renderings**: Communicated design concepts effectively to clients and stakeholders.
+
+- **Conducted survey fieldwork**: Gathered essential data for project planning, contributing to informed and accurate design decisions.
 
 ## Skills
 
--   **Project Management & Leadership**: Effective in leading projects from conception to completion.
--   **Creative Thinking and Problem Solving**: Adept at generating innovative solutions and tackling complex challenges.
--   **Research**: Proficient in conducting thorough proposal research and analysis.
--   **Advanced Data Analysis, Visualization, and Management**: Skilled in utilizing advanced techniques for data analysis, visualization, and management to drive informed decision-making.
--   **Data-Driven Design**: Expertise in spatial analysis and data visualization using GIS, R, and Python.
--   **Collaboration**: Thrive in collaborative work environments, working effectively with teams and stakeholders.
+- **Project Management**: Effective in leading projects from conception to completion.
+
+- **Design**: Skilled in creating innovative and functional landscape designs.
+
+- **Research**: Proficient in conducting thorough proposal research and analysis.
+
+- **Data-Driven Design**: Expertise in spatial analysis and data visualization using GIS, R, and Python.
+
+- **Collaboration**: Thrive in collaborative work environments, working effectively with teams and stakeholders.
 
 ## Personal Interests
 
-In my free time, I’m a musician and still an avid cook who loves to cook over an open fire. I have played in musical projects based in Gainesville, FL & Jamaica Plain, MA, including **Kvetch**, **Tiny Farm**, and **Camp Hope**. I also enjoy fishing & going on hikes with my dog **Ripley**. I am also a huge sports fan, especially of Miami teams like the Heat, Panthers, and Dolphins
+In my free time, I'm a musician and still an avid cook who loves to cook over an open fire. I have played in musical projects based in Gainesville, FL & Jamaica Plain, MA, including ***Kvetch***, ***Tiny Farm***, and ***Camp Hope***. I enjoy going on hikes with my dog **Ripley** and am a big sports fan, especially of Miami teams like the Heat, Panthers, and Dolphins.
 
 ![Meet Ripley!](assets/ripley.png){width="406"}
