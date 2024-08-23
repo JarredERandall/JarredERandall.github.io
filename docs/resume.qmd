@@ -1,32 +1,41 @@
 ---
 title: "Resume"
-output: 
-  html_document: 
-    self_contained: true
-    css: styles.css
+date: 2024-05-26
+published-title: Last Updated
+engine: knitr
+freeze: false
+cv:
+  pdf: "assets/JarredRandall_Resume.pdf"
 ---
 
-<style>
-/* Hide the title and date in the document body */
-h1, .quarto-date, .date, .header-date, .published-date, .last-updated {
-    display: none !important;
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
 }
 
-/* Ensure the title in the navbar remains unchanged */
-.navbar-brand {
-    display: inline-block !important;
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
-/* Center the PDF */
-.pdf-container {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
+.cv-download-container {
+    margin-top: 20px; /* Adjust this value to control the space */
 }
-</style>
+```
 
-<div class="pdf-container">
-  <object data="assets/JarredRandall_Resume.pdf" type="application/pdf" width="800px" height="1100px">
-    <p>It appears you don't have a PDF plugin for this browser. No biggie... you can <a href="assets/JarredRandall_Resume.pdf">click here to download the PDF file.</a></p>
-  </object>
+```{=html}
+<!-- No changes needed for the embed-container -->
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
 </div>
+```
