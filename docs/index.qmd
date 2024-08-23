@@ -15,32 +15,45 @@ about:
       href: https://github.com/JarredERandall/
     - icon: envelope
       text: Contact me
-      href: "mailto:JarredERandall@gmail.com"
+      href: mailto:jarrederandall@gmail.com
 ---
 
 # About Me
 
-I am a Miami-born, Philadelphia-based recent graduate of the Urban Spatial Analytics (MUSA) program with a concentration in Affordable Housing & Policy from the University of Pennsylvania. I hold a Bachelor’s degree in Landscape Architecture from the University of Florida and have professional experience as a Landscape Designer II. My background also includes working as a chef, which has equipped me with the ability to thrive in collaborative, deadline-driven work environments and effectively manage teams during stressful periods.
+I am a Miami-born, Philadelphia-based professional with a recent Master’s degree in Urban Spatial Analytics (MUSA) with a concentration in Affordable Housing & Policy from the University of Pennsylvania. I also hold a Bachelor’s degree in Landscape Architecture from the University of Florida and have diverse professional experience as a Landscape Designer II, Project Manager & Geospatial Analyst, Specimen Technician, and Chef. My unique background enables me to excel in collaborative, deadline-driven environments while effectively managing teams during high-pressure periods.
 
-I have a strong interest in design as a means for social justice, equitable urban green space, green infrastructure, and community-driven design practices. My skill set includes proficiency in data-driven design, spatial analysis, GIS, data visualization, R, and Python programming. Throughout my career, I have demonstrated the ability to manage projects effectively, thrive in collaborative work environments, and provide excellent communication, time management, and a strong work ethic.
+My passion lies in using data-driven design as a tool for social justice, particularly in promoting equitable urban green spaces and implementing green infrastructure. I am committed to leveraging spatial analysis, GIS, and data visualization to support community-driven design practices. I possess a robust skill set, including proficiency in advanced data analysis, statistical modeling, and programming in R and Python. Throughout my career, I have consistently demonstrated the ability to manage projects effectively, deliver insightful analyses, and excel in team-oriented environments with a focus on clear communication, time management, and a strong work ethic.
 
 ## Professional Work
 
--   **Lead various landscape design projects**: Demonstrated strong project management skills, ensuring timely and successful project completion.
--   **Conducted in-depth proposal research**: Resulted in a higher project win rate by providing detailed and compelling project proposals.
--   **Created innovative conceptual designs**: Met client specifications and exceeded expectations through creativity and attention to detail.
--   **Developed comprehensive hardscape and planting construction documents and details**: Ensured accurate and detailed plans for implementation.
--   **Coordinated with regulatory agencies**: Ensured project compliance and smooth approval processes by liaising effectively with relevant authorities.
--   **Produced high-quality graphic exhibits and renderings**: Communicated design concepts effectively to clients and stakeholders.
--   **Conducted survey fieldwork**: Gathered essential data for project planning, contributing to informed and accurate design decisions.
+- **Led diverse landscape design and analytical projects:**: Demonstrated strong project management and analytical skills, ensuring timely and successful project completion with data-driven insights.
+
+- **Conducted in-depth proposal research**: Resulted in a higher project win rate and improved decision-making by providing detailed and compelling data analyses and project proposals.
+
+- **Created innovative conceptual designs and analytical models**:  Met client specifications and exceeded expectations through creativity, attention to detail, and the application of rigorous statistical models for predictive analysis and scenario planning.
+
+- **Developed comprehensive construction documents and data frameworks**: Ensured accurate plans for implementation and established robust frameworks for spatial data analysis and statistical evaluation, enhancing project accuracy and reliability.
+
+- **Coordinated with regulatory agencies**: Ensured project compliance and smooth approval processes by liaising effectively with relevant authorities.
+
+- **Produced high-quality graphic exhibits, renderings, and data visualizations**: Communicated design concepts and analytical insights effectively to clients and stakeholders, using data visualization tools to translate complex statistical data into actionable insights.
+
+- **Conducted survey fieldwork and data collection**: Gathered essential data for project planning and spatial analysis, contributing to informed and accurate design decisions.
 
 ## Skills
 
--   **Project Management**: Effective in leading projects from conception to completion.
--   **Design**: Skilled in creating innovative and functional landscape designs.
--   **Research**: Proficient in conducting thorough proposal research and analysis.
--   **Data-Driven Design**: Expertise in spatial analysis and data visualization using GIS, R, and Python.
--   **Collaboration**: Thrive in collaborative work environments, working effectively with teams and stakeholders.
+- **Project Management & Leadership**: Effective in leading projects from conception to completion with a focus on data-driven decision-making.
+
+- **Creative Thinking and Problem Solving:**: Adept at generating innovative solutions and tackling complex challenges in both design and analysis.
+
+- **Research and Data Analysis**: Proficient in conducting thorough research and applying advanced statistical techniques for data-driven insights.
+
+- **Advanced Data Analysis, Visualization, and Management**: Skilled in utilizing advanced techniques for data analysis, spatial modeling, and visualization using R, Python, and GIS.
+
+- **Data-Driven Design and Analysis**: Expertise in applying spatial analysis and statistical modeling to inform design and operational decisions.
+
+- **Collaboration**: Thrive in collaborative work environments, working effectively with teams, stakeholders, and clients.
+
 
 ## Personal Interests
 
