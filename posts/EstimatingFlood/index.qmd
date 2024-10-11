@@ -7,6 +7,9 @@ freeze: false
 image: "screen.png"
 ---
 
+
+
+
 ```{css echo=FALSE}
 .left-aligned {
     text-align: left;
